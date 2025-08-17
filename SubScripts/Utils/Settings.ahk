@@ -3,9 +3,9 @@
 ;------------------------------------------------------------------------------
 ; Assign setting values from the ini file to global variables
 
-; Bambi Mode: Forces you to refer to yourself as Bambi (ie. "I" => "Bambi", "My" => "Bambi's"...)
-IniRead, bambiMode_Setting, %A_ScriptDir%\settings.ini, SETTINGS, bambiMode
-global bambiMode = %bambiMode_Setting%
+; puppy Mode: Forces you to refer to yourself as puppy (ie. "I" => "puppy", "My" => "puppy's"...)
+IniRead, puppyMode_Setting, %A_ScriptDir%\settings.ini, SETTINGS, puppyMode
+global puppyMode = %puppyMode_Setting%
 
 ; Formal contractions: aren't, could've, how're, etc...
 IniRead, formalContractions_Setting, %A_ScriptDir%\settings.ini, SETTINGS, formalContractions
@@ -19,7 +19,7 @@ global informalContractions = %informalContractions_Setting%
 IniRead, giggles_Setting, %A_ScriptDir%\settings.ini, SETTINGS, giggles
 global giggles = %giggles_Setting%
 
-; Word Replacer: Replaces common words with simpler or more bimbo-like versions. (ie. "best" => "bestest", "confused" => "ditzy"...)
+; Word Replacer: Replaces common words with simpler or more puppy-like versions. (ie. "best" => "bestest")
 IniRead, wordReplacer_Setting, %A_ScriptDir%\settings.ini, SETTINGS, wordReplacer
 global wordReplacer = %wordReplacer_Setting%
 
@@ -31,7 +31,7 @@ global wordsRandomizer = %wordsRandomizer_Setting%
 IniRead, phonetic_Setting, %A_ScriptDir%\settings.ini, SETTINGS, phonetic
 global phonetic = %phonetic_Setting%
 
-; Verbs synonyms: Replaces some specifics verbs with more fitting synonyms. ("Bambi laughs" => "Bambi giggles")
+; Verbs synonyms: Replaces some specifics verbs with more fitting synonyms. ("puppy laughs" => "puppy giggles")
 IniRead, verbsSynonyms_Setting, %A_ScriptDir%\settings.ini, SETTINGS, verbsSynonyms
 global verbsSynonyms = %verbsSynonyms_Setting%
 
@@ -43,9 +43,9 @@ global punctuation = %punctuation_Setting%
 IniRead, hesitationMarks_Setting, %A_ScriptDir%\settings.ini, SETTINGS, hesitationMarks
 global hesitationMarks = %hesitationMarks_Setting%
 
-; Horny Thoughts: Inserts some horny thoughts (ie. "... *god bambi is horny*...") from time to time (less common than hesitation marks)
-IniRead, hornyThoughts_Setting, %A_ScriptDir%\settings.ini, SETTINGS, hornyThoughts
-global hornyThoughts = %hornyThoughts_Setting%
+; Puppy Thoughts: Inserts some puppy thoughts (ie. "... *arrrufff!*...") from time to time (less common than hesitation marks)
+IniRead, puppyThoughts_Setting, %A_ScriptDir%\settings.ini, SETTINGS, puppyThoughts
+global puppyThoughts = %puppyThoughts_Setting%
 
 ;------------------------------------------------------------------------------
 ; DEBUG
@@ -70,7 +70,7 @@ if (%settingSummary_Setting%) {
 		
 		[SETTINGS]
 		Application Handled = %applicationHandled_Setting%
-		Bambi Mode = %bambiMode_Setting%
+		puppy Mode = %puppyMode_Setting%
 		Informal Contractions = %informalContractions_Setting%
 		Formal Contractions = %formalContractions_Setting%
 		Giggles = %giggles_Setting%
@@ -79,7 +79,7 @@ if (%settingSummary_Setting%) {
 		Verbs Synonyms = %verbsSynonyms_Setting%
 		Punctuation = %punctuation_Setting%
 		Hesitation Marks = %hesitationMarks_Setting%
-		Horny Thoughts = %hornyThoughts_Setting%
+		puppy Thoughts = %puppyThoughts_Setting%
 		
 		(You can prevent this window to show up by setting the key "settingSummary" to false in the "setting.ini" file)
 	)

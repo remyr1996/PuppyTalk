@@ -16,7 +16,7 @@ loadContractionsInformal(state) {
 		Hotstring("::aren't", "aint")
 		Hotstring("::were not", "werent")
 		Hotstring("::do not", "dont")
-		Hotstring("::does not", "doesnt")
+		Hotstring("::does not", "dont")
 		Hotstring("::did not", "didnt")
 		Hotstring("::have not", "havent")
 		Hotstring("::has not", "hasnt")

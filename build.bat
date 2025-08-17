@@ -7,7 +7,7 @@
 
 @echo off
 @set /p version="version: "
-@set packageName=Bambi_Dumbtalk_Script_v%version%
+@set packageName=Puppytalk_Script_v%version%
 
 @cd %~dp0
 @set "PROJECT_DIR=%cd%"
@@ -22,7 +22,7 @@ if not exist "Build\" @mkdir "Build"
 
 :: Copy the necessary files to the package folder
 @robocopy "%PROJECT_DIR%" "Build\%packageName%" "README.md"
-@robocopy "%PROJECT_DIR%" "Build\%packageName%" "Bambi Dumbtalk Script.exe"
+@robocopy "%PROJECT_DIR%" "Build\%packageName%" "Puppy talk Script.exe"
 @robocopy "%PROJECT_DIR%" "Build\%packageName%" "settings.ini"
 
 :: Zip the package

@@ -7,7 +7,7 @@ Hotstring("EndChars", "-()[]{}:;""/\,.?!`n `t")
 
 loadContractionsFormal(formalContractions)
 loadContractionsInformal(informalContractions)
-loadBambiPronouns(bambiMode)
+loadPuppyPronouns(puppyMode)
 loadGiggles(giggles)
 loadWordReplacer(wordReplacer)
 load3rdPersonVerbs(bambiMode)
@@ -15,7 +15,7 @@ loadWordsRandomizer(wordsRandomizer)
 loadPhonetic(phonetic)
 loadVerbsSynonyms(verbsSynonyms)
 loadPunctuation(punctuation)
-if (hesitationMarks or hornyThoughts) {
-	loadHesitationsAndHornyThoughts(true)
+if (hesitationMarks or puppyThoughts) {
+	loadHesitationsAndPuppyThoughts(true)
 }
 ; thoughtsBetweenWords(true) ; Doesn't work

@@ -6,10 +6,11 @@
 loadVerbsSynonyms(state) {
 	if (state == true) {
 		Hotstring("B Z")
-		Hotstring(":bambi: laugh", " giggles")
-		Hotstring(":bambi: laughs", " giggles")
-		Hotstring(":bambi: think", " believes") ; Bambi doesn't think
-		Hotstring(":bambi: thinks", " believes")
+		Hotstring(":puppy: laugh", " giggles")
+		Hotstring(":puppy: laughs", " giggles")
+		Hotstring(":puppy: think", " believes") ; puppy doesnt think
+		Hotstring(":puppy: thinks", " believes")
+		Hotstring(":puppy: talks", "barks")
 		Hotstring("reset")
 	}
 }

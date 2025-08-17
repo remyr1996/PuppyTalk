@@ -19,7 +19,7 @@ loadContractionsFormal(state) {
 		Hotstring("::was not", "wasn't")
 		Hotstring("::were not", "weren't")
 		Hotstring("::do not", "don't")
-		Hotstring("::does not", "doesn't")
+		Hotstring("::does not", "don't")
 		Hotstring("::did not", "didn't")
 		Hotstring("::have not", "haven't")
 		Hotstring("::has not", "hasn't")
@@ -32,12 +32,15 @@ loadContractionsFormal(state) {
 		Hotstring("::would not", "wouldn't")
 
 		; "I"
-		Hotstring("::i am", "I'm")
-		Hotstring("::i have", "I've")
-		Hotstring("::i had", "I'd")
-		Hotstring("::i shall", "I'll")
-		Hotstring("::i will", "I'll")
-		Hotstring("::i would", "I'd")
+		Hotstring("::i am", "puppy is")
+		Hotstring("::im", "puppy is")
+		Hotstring("::I'm", "puppy is")
+		Hotstring("::Im", "puppy is")
+		Hotstring("::i have", "puppy has")
+		Hotstring("::i had", "puppy had")
+		Hotstring("::i shall", "puppy will")
+		Hotstring("::i will", "puppy will")
+		Hotstring("::i would", "puppy would")
 
 		; "you"
 		Hotstring("::you are", "you're")
