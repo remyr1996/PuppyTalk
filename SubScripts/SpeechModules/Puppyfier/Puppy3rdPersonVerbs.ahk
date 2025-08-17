@@ -4,151 +4,151 @@
 ; Changes verbs to the 3rd person when refering to yourself as Bambi (Non exhaustive list)
 
 #Hotstring B Z ; Conjugates verbs to third person
-; Common bambi related verbs
-:bambi: bend:: bends
-:bambi: bounce:: bounces
-:bambi: feel:: feels
-:bambi: fuck:: fucks
-:bambi: kneel:: kneels
-:bambi: like:: likes
-:bambi: love:: loves
-:bambi: obey:: obeys
-:bambi: please:: pleases
-:bambi: suck:: sucks
-:bambi: want:: wants ; should be replaced insted
-:bambi: wish:: wishes
-:bambi: melt:: melts
-:bambi: drop:: drops
-:bambi: sink:: sinks
-:bambi: masturbate:: masturbates
-:bambi: jerk:: jerks
+; Common puppy related verbs
+:puppy: bend:: bends
+:puppy: bounce:: bounces
+:puppy: feel:: feels
+:puppy: fuck:: fucks
+:puppy: kneel:: kneels
+:puppy: like:: likes
+:puppy: love:: loves
+:puppy: obey:: obeys
+:puppy: please:: pleases
+:puppy: suck:: sucks
+:puppy: want:: wants ; should be replaced insted
+:puppy: wish:: wishes
+:puppy: melt:: melts
+:puppy: drop:: drops
+:puppy: sink:: sinks
+:puppy: masturbate:: masturbates
+:puppy: jerk:: jerks
 
 ; Common action verbs
-:bambi: act:: acts
-:bambi: agree:: agrees
-:bambi: arrive:: arrives
-:bambi: ask:: asks
-:bambi: brings:: brings
-:bambi: build:: builds
-:bambi: buy:: buys
-:bambi: call:: calls
-:bambi: climb:: climbs
-:bambi: close:: closes
-:bambi: come:: comes
-:bambi: cry:: cries
-:bambi: dance:: dances
-:bambi: dream:: dreams
-:bambi: drink:: drinks
-:bambi: eat:: eats
-:bambi: enter:: enters
-:bambi: exit:: exits
-:bambi: fall:: falls
-:bambi: fix:: fixes
-:bambi: guess:: guesses
-:bambi: give:: gives
-:bambi: go:: goes
-:bambi: grab:: grabs
-:bambi: help:: helps
-:bambi: hit:: hits
-:bambi: hop:: hops
-:bambi: joke:: jokes
-:bambi: jump:: jumps
-:bambi: kick:: kicks
-:bambi: know:: knows
-:bambi: leave:: leaves
-:bambi: lift:: lifts
-:bambi: listen:: listens
-:bambi: make:: makes
-:bambi: march:: marches
-:bambi: mean:: means
-:bambi: move:: moves
-:bambi: need:: needs
-:bambi: nod:: nods
-:bambi: open:: opens
-:bambi: play:: plays
-:bambi: push:: pushes
-:bambi: read:: reads
-:bambi: ride:: rides
-:bambi: run:: runs
-:bambi: scream:: screams
-:bambi: send:: sends
-:bambi: shout:: shouts
-:bambi: sing:: sings
-:bambi: sit:: sits
-:bambi: smile:: smiles
-:bambi: spend:: spends
-:bambi: stand:: stands
-:bambi: talk:: talks
-:bambi: throw:: throws
-:bambi: touch:: touches
-:bambi: turn:: turns
-:bambi: visit:: visits
-:bambi: vote:: votes
-:bambi: wait:: waits
-:bambi: walk:: walks
-:bambi: write:: writes
-:bambi: yell:: yells
+:puppy: act:: acts
+:puppy: agree:: agrees
+:puppy: arrive:: arrives
+:puppy: ask:: asks
+:puppy: brings:: brings
+:puppy: build:: builds
+:puppy: buy:: buys
+:puppy: call:: calls
+:puppy: climb:: climbs
+:puppy: close:: closes
+:puppy: come:: comes
+:puppy: cry:: cries
+:puppy: dance:: dances
+:puppy: dream:: dreams
+:puppy: drink:: drinks
+:puppy: eat:: eats
+:puppy: enter:: enters
+:puppy: exit:: exits
+:puppy: fall:: falls
+:puppy: fix:: fixes
+:puppy: guess:: guesses
+:puppy: give:: gives
+:puppy: go:: goes
+:puppy: grab:: grabs
+:puppy: help:: helps
+:puppy: hit:: hits
+:puppy: hop:: hops
+:puppy: joke:: jokes
+:puppy: jump:: jumps
+:puppy: kick:: kicks
+:puppy: know:: knows
+:puppy: leave:: leaves
+:puppy: lift:: lifts
+:puppy: listen:: listens
+:puppy: make:: makes
+:puppy: march:: marches
+:puppy: mean:: means
+:puppy: move:: moves
+:puppy: need:: needs
+:puppy: nod:: nods
+:puppy: open:: opens
+:puppy: play:: plays
+:puppy: push:: pushes
+:puppy: read:: reads
+:puppy: ride:: rides
+:puppy: run:: runs
+:puppy: scream:: screams
+:puppy: send:: sends
+:puppy: shout:: shouts
+:puppy: sing:: sings
+:puppy: sit:: sits
+:puppy: smile:: smiles
+:puppy: spend:: spends
+:puppy: stand:: stands
+:puppy: talk:: talks
+:puppy: throw:: throws
+:puppy: touch:: touches
+:puppy: turn:: turns
+:puppy: visit:: visits
+:puppy: vote:: votes
+:puppy: wait:: waits
+:puppy: walk:: walks
+:puppy: write:: writes
+:puppy: yell:: yells
 
 ; Other verbs
-:bambi: accept:: accepts
-:bambi: ache:: aches
-:bambi: achieve:: achieves
-:bambi: acquire:: acquires
-:bambi: add:: adds
-:bambi: adjust:: adjusts
-:bambi: admire:: admires
-:bambi: advise:: advises
-:bambi: allow:: allows
-:bambi: announce:: announces
-:bambi: answer:: answers
-:bambi: apologize:: apologizes
-:bambi: applaud:: applauds
-:bambi: approache:: approaches
-:bambi: approve:: approves
-:bambi: argue:: argues
-:bambi: arise:: arises
-:bambi: arrange:: arranges
-:bambi: attract:: attracts
-:bambi: avoid:: avoids
-:bambi: awake:: awakes
-:bambi: banishe:: banishes
-:bambi: beg:: begs
-:bambi: begin:: begins
-:bambi: behave:: behaves
-:bambi: believe:: believes
-:bambi: belong:: belongs
-:bambi: bet:: bets
-:bambi: bite:: bites
-:bambi: blow:: blows
-:bambi: blushe:: blushes
-:bambi: break:: breaks
-:bambi: breathe:: breathes
-:bambi: breed:: breeds
-:bambi: caresse:: caresses
-:bambi: carry:: carries
+:puppy: accept:: accepts
+:puppy: ache:: aches
+:puppy: achieve:: achieves
+:puppy: acquire:: acquires
+:puppy: add:: adds
+:puppy: adjust:: adjusts
+:puppy: admire:: admires
+:puppy: advise:: advises
+:puppy: allow:: allows
+:puppy: announce:: announces
+:puppy: answer:: answers
+:puppy: apologize:: apologizes
+:puppy: applaud:: applauds
+:puppy: approach:: approaches
+:puppy: approve:: approves
+:puppy: argue:: argues
+:puppy: arise:: arises
+:puppy: arrange:: arranges
+:puppy: attract:: attracts
+:puppy: avoid:: avoids
+:puppy: awake:: awakes
+:puppy: banish:: banishes
+:puppy: beg:: begs
+:puppy: begin:: begins
+:puppy: behave:: behaves
+:puppy: believe:: believes
+:puppy: belong:: belongs
+:puppy: bet:: bets
+:puppy: bite:: bites
+:puppy: blow:: blows
+:puppy: blushe:: blushes
+:puppy: break:: breaks
+:puppy: breathe:: breathes
+:puppy: breed:: breeds
+:puppy: caresse:: caresses
+:puppy: carry:: carries
 ; lot more to add: https://www.worldclasslearning.com/english/five-verb-forms.html
-:bambi: hope:: hopes
-:bambi: see:: sees
-:bambi: meet:: meets
-:bambi: thank:: thanks
-:bambi: type:: types
-:bambi: use:: uses
+:puppy: hope:: hopes
+:puppy: see:: sees
+:puppy: meet:: meets
+:puppy: thank:: thanks
+:puppy: type:: types
+:puppy: use:: uses
 return
 
 
 load3rdPersonVerbs(state) {
 	if (state == true) {
 		Hotstring("B Z")
-		; removes "'" just for this hotstring + reset automatic replacement (to avoid stuff like "bambi would likes")
+		; removes "'" just for this hotstring + reset automatic replacement (to avoid stuff like "puppy would likes")
 		; Hotstring("EndChars", "-()[]{}:;""/\,.?!`n `t")
 		Hotstring(":: am", " is")
-		Hotstring("::i'm", "bambi is")
-		Hotstring("::im", "bambi is")
+		Hotstring("::i'm", "puppy is")
+		Hotstring("::im", "puppy is")
 		Hotstring(":: have", " has")
-		Hotstring("::i've", "bambi has")
-		Hotstring("::ive", "bambi has")
-		Hotstring("::i'll", "bambi will")
-		Hotstring("::i'd", "bambi would")
+		Hotstring("::i've", "puppy has")
+		Hotstring("::ive", "puppy has")
+		Hotstring("::i'll", "puppy will")
+		Hotstring("::i'd", "puppy would")
 		Hotstring("reset")
 	}
 }
