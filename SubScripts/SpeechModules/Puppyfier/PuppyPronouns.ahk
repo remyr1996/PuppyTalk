@@ -6,7 +6,6 @@
 loadPuppyPronouns(state) {
 	if (state == true) {
 		Hotstring("B Z0")
-<<<<<<< HEAD:SubScripts/SpeechModules/Puppyfier/PuppyPronouns.ahk
 		Hotstring("::do i", "does puppy")
 		Hotstring("::am i", "is puppy")
 		Hotstring("::have i", "has puppy")
@@ -15,7 +14,6 @@ loadPuppyPronouns(state) {
 		Hotstring("::my", "puppy's")
 		Hotstring("::mine", "puppy's")
 		Hotstring("::myself", "pupself")
-=======
 		Hotstring("::do i", "does bambi")
 		Hotstring("::am i", "is bambi")
 		Hotstring("::have i", "has bambi")
@@ -24,7 +22,6 @@ loadPuppyPronouns(state) {
 		Hotstring("::my", "bambi's")
 		Hotstring("::mine", "bambi's")
 		Hotstring("::myself", "herself")
->>>>>>> parent of 12f433b (bambi -> puppy):SubScripts/SpeechModules/Bambifier/BambiPronouns.ahk
 		Hotstring("reset")
 	}
 }
